@@ -1,0 +1,124 @@
+{
+    "dialog_nodes": [
+      {
+        "type": "standard",
+        "title": "Welcome",
+        "output": {
+          "generic": [
+            {
+              "values": [
+                {
+                  "text": "Hello! I'm your health assistant. How can I help you today?"
+                }
+              ],
+              "response_type": "text"
+            }
+          ]
+        },
+        "conditions": "#Welcome"
+      },
+      {
+        "type": "standard",
+        "title": "Symptoms",
+        "output": {
+          "generic": [
+            {
+              "values": [
+                {
+                  "text": "It sounds like you're experiencing symptoms. Can you describe them in more detail?"
+                }
+              ],
+              "response_type": "text"
+            }
+          ]
+        },
+        "conditions": "#Symptoms"
+      },
+      {
+        "type": "standard",
+        "title": "Medications",
+        "output": {
+          "generic": [
+            {
+              "values": [
+                {
+                  "text": "Sure, let's talk about medications. What specific information are you looking for?"
+                }
+              ],
+              "response_type": "text"
+            }
+          ]
+        },
+        "conditions": "#Medications"
+      },
+      {
+        "type": "standard",
+        "title": "Conditions",
+        "output": {
+          "generic": [
+            {
+              "values": [
+                {
+                  "text": "For conditions, I can provide overviews. Which condition are you interested in?"
+                }
+              ],
+              "response_type": "text"
+            }
+          ]
+        },
+        "conditions": "#Conditions"
+      },
+      {
+        "type": "standard",
+        "title": "Emergency",
+        "output": {
+          "generic": [
+            {
+              "values": [
+                {
+                  "text": "In case of emergencies, please call your local emergency number. If it's not urgent, I can still offer some guidance. What's the situation?"
+                }
+              ],
+              "response_type": "text"
+            }
+          ]
+        },
+        "conditions": "#Emergency"
+      },
+      {
+        "type": "standard",
+        "title": "Treatment",
+        "output": {
+          "generic": [
+            {
+              "values": [
+                {
+                  "text": "When it comes to treatment options, it depends on the specific condition. Could you provide more details?"
+                }
+              ],
+              "response_type": "text"
+            }
+          ]
+        },
+        "conditions": "#Treatment"
+      },
+      {
+        "type": "standard",
+        "title": "Prevention",
+        "output": {
+          "generic": [
+            {
+              "values": [
+                {
+                  "text": "Preventive measures are essential for maintaining good health. What area of prevention are you interested in?"
+                }
+              ],
+              "response_type": "text"
+            }
+          ]
+        },
+        "conditions": "#Prevention"
+      }
+    ]
+  }
+  

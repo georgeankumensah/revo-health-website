@@ -1,0 +1,22 @@
+intent,example_utterance,response
+greet,Hello,Hi there! How can I help you today?
+farewell,Goodbye,Goodbye! Take care.
+thank_you,Thank you,You're welcome! If you have more questions, feel free to ask.
+basic_health_info,What is a healthy diet?,A healthy diet includes a variety of fruits, vegetables, whole grains, and lean proteins.
+exercise_tips,Any tips for staying active?,Regular exercise, such as brisk walking or cycling, is great for maintaining overall health. Aim for at least 150 minutes per week.
+stress_management,How to manage stress?,Practicing mindfulness, deep breathing, and engaging in activities you enjoy can help manage stress.
+symptom_checker,I have a headache and nausea,It's important to consult with a healthcare professional for a proper diagnosis. These symptoms could have various causes.
+medication_info,Tell me about ibuprofen,Ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID) commonly used for pain relief and reducing inflammation.
+allergies_info,What are common allergy symptoms?,Common allergy symptoms include sneezing, runny nose, itching, and watery eyes.
+flu_prevention,How to prevent the flu?,Getting a flu vaccine, practicing good hand hygiene, and avoiding close contact with sick individuals can help prevent the flu.
+emergency_numbers,What are emergency numbers?,In case of emergencies, dial your country's emergency number (e.g., 911 in the United States).
+nutrition_advice,Can you recommend a balanced meal?,A balanced meal should include a mix of carbohydrates, proteins, and healthy fats. Consider a plate with veggies, lean protein, and whole grains.
+hydration_tips,How much water should I drink daily?,The general guideline is to drink about 8 cups (64 ounces) of water per day, but individual needs may vary.
+mental_health_support,How to cope with anxiety?,Practicing mindfulness, talking to a friend, and seeking professional help are some ways to cope with anxiety.
+sleep_tips,Any tips for better sleep?,Establish a regular sleep schedule, create a relaxing bedtime routine, and ensure your sleep environment is comfortable.
+weight_loss_tips,What are some healthy weight loss tips?,Focus on a balanced diet, regular exercise, and gradual changes for sustainable weight loss.
+healthy_snacks,Can you suggest healthy snacks?,Nuts, fruits, yogurt, and vegetable sticks with hummus are great options for healthy snacks.
+heart_health,How to maintain heart health?,Regular exercise, a balanced diet low in saturated fats, and managing stress contribute to heart health.
+quit_smoking,Any tips to quit smoking?,Consider seeking support from a healthcare professional, use nicotine replacement therapy, and identify triggers to quit smoking.
+vaccination_info,Why are vaccinations important?,Vaccinations help prevent the spread of infectious diseases and protect individuals and communities.
+first_aid_tips,What are basic first aid tips?,For minor injuries, clean the wound, apply an antiseptic, and use a sterile bandage. Seek professional help for more severe injuries.
